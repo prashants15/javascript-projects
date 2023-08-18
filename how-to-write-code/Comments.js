@@ -1,9 +1,10 @@
    // This demo shows off comments!
 
-   // console.log("This does not print.");
+    //console.log("This does not print.");
 
    console.log("Hello, World!"); // Comments do not have to start at the beginning of a line.
-
+// Below code will print
+console.log("Learning javascript in LauchCode programme");
    /* Here is how
    to have
    multi-line
